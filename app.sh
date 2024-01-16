@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Author LinkinStar
-## UPDATE 2019-01-05
+## UPDATE 2024-01-16
 version="1.0.1";
 
 appName=$2
