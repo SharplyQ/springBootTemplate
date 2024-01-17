@@ -10,5 +10,6 @@ PARAMS="--server.port=$APP_PORT --spring.profiles.active=$APP_PROFILES $APP_PARA
 
 echo "Starting..."
 echo "java $JVM_OPT $JAVA_OPT -jar $APP_JAR $PARAMS"
+echo "Star ok."
 
 java  $JVM_OPT $JAVA_OPT -jar $APP_JAR $PARAMS
